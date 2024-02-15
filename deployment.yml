@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: amazon-container
-          image: liliacr.azurecr.io/amazon_app:v1.0.0
+          image: liliacr.azurecr.io/amazon_app:28
           ports:
             - containerPort: 3000
 
