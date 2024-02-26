@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: amazon-container
-          image: laly9999/amazon_app:
+          image: laly9999/amazon_app:2
           ports:
             - containerPort: 3000
 
