@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        IMAGE = 'laly9999/amazon_app'
+        IMAGE = 'laly9999/build_amazon'
     }
 
     stages {
